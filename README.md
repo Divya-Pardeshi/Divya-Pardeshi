@@ -1,9 +1,8 @@
 <img src="https://github.com/Divya-Pardeshi/Divya-Pardeshi/assets/114762794/4013b9f6-18d3-4aab-9e9e-c00a84252f3b" alt="Aesthetic Discord" style="width: 1700px; height: 500px;">
 
-<img align="right" alt="Coding" width="520" height="580" src="https://github.com/Divya-Pardeshi/Divya-Pardeshi/assets/114762794/8f2b8d84-3e78-49d6-a0d5-dc1b197431d1">
+<a href="https://git.io/typing-svg"><img align = "left" img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=333326&background=FFF63B&center=true&vCenter=true&multiline=true&random=false&width=492&height=100&lines=Hello!+I'm+Divya+Pardeshi%2C;An+Aspiring+Data+Scientist%2C+Data+Analyst+;%26+former+Maths+%26+Reasoning+Educator." alt="Typing SVG" /></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=333326&background=FFF097&center=true&vCenter=true&multiline=true&random=false&width=492&height=100&lines=Hello!+I'm+Divya+Pardeshi%2C;An+Aspiring+Data+Scientist%2C+Data+Analyst+;%26+former+Maths+%26+Reasoning+Educator.)](https://git.io/typing-svg)
-
+<img align="right" alt="Coding" width="500" height="580" src="https://github.com/Divya-Pardeshi/Divya-Pardeshi/assets/114762794/8f2b8d84-3e78-49d6-a0d5-dc1b197431d1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divya-pardeshi&label=Profile%20views&color=0e75b6&style=flat" alt="divya-pardeshi" /> </p>
 
