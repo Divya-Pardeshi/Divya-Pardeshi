@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="500" height="280" src="https://github.com/Divya-Pardeshi/Divya-Pardeshi/assets/114762794/8f2b8d84-3e78-49d6-a0d5-dc1b197431d1">
 
 # 💫 About Me:
-🔭 I’m currently working as a data science intern at @iNeuronai.<br>🌱 Currently learning Deep Learning and NLP.<br> 👨‍💻 All of my projects are available at [https://divyapardeshi.blogspot.com/](https://divyapardeshi.blogspot.com/).<br>👀Looking to collaborate with other data enthusiasts.<br>📫 Reach me:  divyapardeshi20@gmail.com<br>🥅 2023 Goals: Contribute more to open source projects.<br>😁 Fun fact: I'm a huge fan of data diving!
+🔭 I’m currently working as a data science intern at @iNeuronai.<br>🌱 Currently learning Deep Learning and NLP.<br> 👨‍💻 All of my projects are available at My Portfolio Website: https://divya-pardeshi.github.io/webportfolio/<br>👀Looking to collaborate with other data enthusiasts.<br>📫 Reach me:  divyapardeshi20@gmail.com<br>🥅 2023 Goals: Contribute more to open source projects.<br>😁 Fun fact: I'm a huge fan of data diving!
 
 
 ## 🌐 Socials:
